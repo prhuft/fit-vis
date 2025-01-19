@@ -1,0 +1,3 @@
+data/*.zip
+data/garmin_data*/
+.ipynb_checkpoints/
